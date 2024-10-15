@@ -29,6 +29,13 @@ This project aims to analyze student performance data to uncover trends, identif
 **Data Sources**
 The data used in this project focuses on student academic performance and related factors. The following datasets are being explored:
 
-- Kaggle - Student Performance Data Set: Contains exam scores and demographic data for students.
-- UCI Machine Learning Repository - Student Performance: Provides data on student grades, demographic information, and attendance records.
+- [Kaggle - Student Performance Data Set](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams): Contains exam scores and demographic data for students.
+- [UCI Machine Learning Repository - Student Performance](https://archive.ics.uci.edu/ml/datasets/Student+Performance): Provides data on student grades, demographic information, and attendance records.
 You can download the datasets and place them in the data/ folder for analysis.
+
+*Contributing**
+Contributions are welcome! Feel free to submit a pull request or create an issue for discussion. Your feedback is valuable.
+**License**
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
